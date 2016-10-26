@@ -1,0 +1,143 @@
+﻿--English--
+0/Name/English
+0/Locale/en-US
+0/Open/Open Map
+0/Save/Save Map
+0/Protect/Protect
+0/Unprotect/Unprotect
+0/Setting/Setting
+0/About/About
+0/Password/Password
+0/PWWrite/password
+0/OpenFolder/Open Folder
+0/SaveFolder/Save Folder
+0/SMLPFolder/SMLP Folder
+0/LastFolder/Last Folder
+0/SettingFolder/Setting Folder
+0/Update/Update
+0/FileVer/File Version
+0/WebVer/Web Version
+0/AutoUpdate/AutoUpdate
+0/WavComp/Wav Compression
+0/WavHigh/High Compression
+0/WavMiddle/Middle Compression
+0/WavLow/Low Compression
+0/Backup/Backup
+0/BackupFile/File Backup
+0/BackupPW/Password Backup
+0/ChkProtect/Chk Protect
+0/MPQProtect/MPQ Protect
+0/SaveUnprotectData/Save Unprotect Data
+0/Notice/Notice! This Settting%nl%Makes Map Size Bigger
+0/Language/Language
+0/Reset/Reset All
+0/Cancel/Cancel
+0/OK/OK
+0/FilterOpen/Starcraft Map Files|*.scm;*.scx;*.chk|Starcraft Map|*.scm|Starcraft Expansion|*.scx|Chunk File|*.chk|MoPaQ File|*.mpq|All Files|*.*
+0/FilterSaveO/Starcraft Map|*.scm|Starcraft Expansion|*.scx|Chunk File|*.chk|MoPaQ File|*.mpq|All Files|*.*
+0/FilterSaveE/Starcraft Expansion|*.scx|Chunk File|*.chk|MoPaQ File|*.mpq|All Files|*.*
+0/Msg_CheckUpdate/Checking new update...
+0/Msg_NewUpdate/Detected a new update! Updating...
+0/Msg_CheckComplete/Update check complete!
+0/Msg_InternetConnection/Server connection error
+0/Msg_MapOpen/Select map open
+0/Msg_MapValid/This is not valid map file!
+0/Msg_MPQReadStart/Map selected! Reading MPQ data...
+0/Msg_MPQReadEnd/MPQ read complete! Reading Chunk data...
+0/Msg_ChunkReadStart/Map Chunk selected! Reading Chunk data...
+0/Msg_ChunkReadEnd/Chunk read completed!
+0/Msg_SoundReadStart/Sound Reading...
+0/Msg_SoundReadEnd/Sound read completed!
+0/Msg_ReadP/This map was protected
+0/Msg_ReadNP/Map was not protected
+0/Msg_MapSave/Select map save
+0/Msg_MapPath/Path selected! Writing Chunk data...
+0/Msg_MPQProtectStart/Chunk write complete! Protecting MPQ data...
+0/Msg_MPQProtectEnd/MPQ protecting complete! Writing MPQ data...
+0/Msg_WriteMPQ/Chunk write complete! Writing MPQ data...
+0/Msg_MPQEnd/MPQ write completed!
+0/Msg_ChunkEnd/Chunk write completed!
+0/Msg_SelectProtect/Select Protect one or more!
+0/Msg_WritePW/Writing Password...
+0/Msg_ProtectStart/Protecting data...
+0/Msg_ProtectEnd/Protect completed!
+0/Msg_ReadPW/Reading Password...
+0/Msg_NotMatch/Password do not match!
+0/Msg_UnprotectStart/Password check complete! Unprotecting data...
+0/Msg_UnprotectEnd/Unprotect completed!
+0/Msg_SettingOn/Setting window opened
+0/Msg_SettingOff/Setting window closed
+0/Msg_AboutOn/About window opened
+0/Msg_AboutOff/About window closed
+
+--한국어--
+1/Name/한국어
+1/Locale/ko-KR
+1/Open/맵 열기
+1/Save/맵 저장
+1/Protect/프로텍트
+1/Unprotect/언프로텍트
+1/Setting/설정
+1/About/정보
+1/Password/비밀번호
+1/PWWrite/비밀번호를 입력하세요
+1/OpenFolder/열기 폴더
+1/SaveFolder/저장 폴더
+1/SMLPFolder/SMLP 폴더
+1/LastFolder/마지막 폴더
+1/SettingFolder/설정 폴더
+1/Update/업데이트
+1/FileVer/파일 버전
+1/WebVer/웹 버전
+1/AutoUpdate/자동 업데이트
+1/WavComp/Wav 압축
+1/WavHigh/최대 압축
+1/WavMiddle/중간 압축
+1/WavLow/최소 압축
+1/Backup/백업
+1/BackupFile/파일 백업
+1/BackupPW/비밀번호 백업
+1/ChkProtect/Chk 프로텍트
+1/MPQProtect/MPQ 프로텍트
+1/SaveUnprotectData/언프로텍트 정보 저장
+1/Notice/주의! 해당 설정은%nl%맵 용량을 증가시킵니다
+1/Language/언어
+1/Reset/초기화
+1/Cancel/취소
+1/OK/확인
+1/FilterOpen/스타크래프트 맵 파일|*.scm;*.scx;*.chk|스타크래프트 오리지널 맵|*.scm|스타크래프트 확장팩 맵|*.scx|Chunk파일|*.chk|MoPaQ파일|*.mpq|모든 파일|*.*
+1/FilterSaveO/스타크래프트 오리지널 맵|*.scm|스타크래프트 확장팩 맵|*.scx|Chunk파일|*.chk|MoPaQ파일|*.mpq|모든 파일|*.*
+1/FilterSaveE/스타크래프트 확장팩 맵|*.scx|Chunk파일|*.chk|MoPaQ파일|*.mpq|모든 파일|*.*
+1/Msg_CheckUpdate/새 업데이트 확인중...
+1/Msg_NewUpdate/새 업데이트 발견! 업데이트중...
+1/Msg_CheckComplete/업데이트 확인 완료!
+1/Msg_InternetConnection/서버에 연결을 실패했습니다.
+1/Msg_MapOpen/맵 열기 선택
+1/Msg_MapValid/제대로 된 맵파일이 아닙니다!
+1/Msg_MPQReadStart/맵 선택됨! MPQ데이터 읽는중...
+1/Msg_MPQReadEnd/MPQ읽기 완료! Chunk데이터 읽는중...
+1/Msg_ChunkReadStart/맵 선택됨! Chunk데이터 읽는중...
+1/Msg_ChunkReadEnd/Chunk읽기 완료!
+1/Msg_SoundReadStart/사운드 읽는중...
+1/Msg_SoundReadEnd/사운드 읽기 완료!
+1/Msg_ReadP/해당 맵은 프로텍트 되었습니다
+1/Msg_ReadNP/해당 맵은 프로텍트 되지 않았습니다
+1/Msg_MapSave/맵 저장 선택
+1/Msg_MapPath/위치 선택됨! Chunk데이터 쓰는중...
+1/Msg_MPQProtectStart/Chunk 쓰기 완료! MPQ데이터 프로텍트중...
+1/Msg_MPQProtectEnd/MPQ프토텍팅 완료! MPQ데이터 쓰는중...
+1/Msg_WriteMPQ/Chunk쓰기 완료! MPQ데이터 쓰는중...
+1/Msg_MPQEnd/MPQ 쓰기 완료!
+1/Msg_ChunkEnd/Chunk 쓰기 완료!
+1/Msg_SelectProtect/하나 이상의 프로텍트를 선택해 주세요!
+1/Msg_WritePW/비밀번호 쓰는중...
+1/Msg_ProtectStart/프로텍트중...
+1/Msg_ProtectEnd/프로텍트 완료!
+1/Msg_ReadPW/비밀번호 읽는중...
+1/Msg_NotMatch/비밀번호가 일치하지 않습니다!
+1/Msg_UnprotectStart/비밀번호 확인 완료! 언프로텍트중...
+1/Msg_UnprotectEnd/언프로텍트 완료!
+1/Msg_SettingOn/설정 창이 열렸습니다
+1/Msg_SettingOff/설정 창이 닫혔습니다
+1/Msg_AboutOn/정보 창이 열렸습니다
+1/Msg_AboutOff/정보 창이 닫혔습니다
